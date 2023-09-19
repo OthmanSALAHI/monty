@@ -7,7 +7,7 @@
  */
 void free_all(list_t *list, stack_t *stack)
 {
-	if (list_opcode)
+	if (list)
 		free_list_opcode(list);
 	if (stack)
 		free_list_stack(stack);
