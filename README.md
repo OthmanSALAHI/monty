@@ -19,5 +19,3 @@ $ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ```sh
 $ ./monty <file.m>
 ```
-
-# Tests
