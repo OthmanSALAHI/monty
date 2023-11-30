@@ -13,7 +13,6 @@ $ git clone https://github.com/othmansalahi/monty.git
 ```sh
 $ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ```
-
 - The monty program
 
 ```sh
